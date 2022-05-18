@@ -1,5 +1,5 @@
-# discord_overlay_external_renderer
-Renders to the Discord-Overlay externally via HTML
+# Hijack Discord Overlay
+Overlay on any game by rendering externally through HTML
 
 This works by Discord utilizing (most likely) Electron and send the Overlay frames to their app. One can simply redirect the overlay page. 
 
